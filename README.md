@@ -13,6 +13,11 @@
     <img src="/img/auth.png">
 </p>
 
+### Menu de operações
+<p align="center">
+    <img src="/img/menu.png">
+</p>
+
 ### Cadastro
 <p align="center">
     <img src="/img/register-service.png">
