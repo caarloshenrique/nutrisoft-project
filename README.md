@@ -31,8 +31,8 @@
 ## Pré-requisitos 📋
 
 Para executar esta aplicação em seu dispositivo você precisará ter instalado e configurado:
-* *<a href="https://www.mysql.com/" target="_blank">Java 8</a>*
-* *<a href="https://www.oracle.com/java/technologies/javase-jdk8-downloads.html" target="_blank">MySQL 5</a>*
+* <a href="https://www.mysql.com/" target="_blank">Java 8</a>
+* <a href="https://www.oracle.com/java/technologies/javase-jdk8-downloads.html" target="_blank">MySQL 5</a>
 
 ## Script para criação do banco de dados 💾
 
