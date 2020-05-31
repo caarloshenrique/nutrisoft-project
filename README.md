@@ -1,7 +1,15 @@
 # nutrisoft-project
 :herb: Um projeto para registro de serviços de nutrição desenvolvido em Java com persistência de dados MySQL.
 
-## Interfaces 💻
+## :rocket: Tecnologias utilizadas  
+O projeto foi feito utilizando as seguintes tecnologias:
+
+- [Java 8](https://www.java.com/pt_BR/download/faq/java8.xml)
+- [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/)
+- [MySQL 5](https://dev.mysql.com/)
+{...}
+
+## :computer: Interfaces
 
 ### Home
 <p align="center">
@@ -28,13 +36,13 @@
     <img src="/img/service-list.png">
 </p>
 
-## Pré-requisitos 📋
+## :clipboard: Pré-requisitos
 
 Para executar esta aplicação em seu dispositivo você precisará ter instalado e configurado:
 * <a href="https://www.mysql.com/" target="_blank">Java 8</a>
 * <a href="https://www.oracle.com/java/technologies/javase-jdk8-downloads.html" target="_blank">MySQL 5</a>
 
-## Script para criação do banco de dados 💾
+## :floppy_disk: Script para criação do banco de dados
 
 ```
 CREATE DATABASE nutrisoft;
