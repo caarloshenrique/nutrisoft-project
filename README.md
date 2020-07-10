@@ -68,6 +68,9 @@ CREATE TABLE  servicotb (
 );
 ```
 
+## :fire: Instalação e execução
+Execute a classe `Executavel` localizada em `src/br/com/nutrisoft/executavel/Executavel.java`
+
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
 
